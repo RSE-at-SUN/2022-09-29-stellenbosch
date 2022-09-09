@@ -79,6 +79,8 @@ the pitch.
 
 {% if site.pilot %}
 
+This workshop is based on training material created for <a href="https://carpentries.org/">The Carpentries</a>. The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work, and become more efficient in their research.
+
 <h3>Git and Python</h3>
 
 <a href="https://git-scm.com/">Git</a> is a powerful version control system that is becoming increasingly valuable as a tool for collaboration and Open Science.
@@ -87,6 +89,9 @@ the pitch.
 
 This workshop is a hands-on introduction to Git and Python for beginners, using material that has been adapted from the <a href="https://software-carpentry.org/lessons/">Software Carpentry</a> lesson materials.
 
+<h3>Target audience</h3>
+
+The target audience is learners who have little to no prior computational experience, and the instructors put a priority on creating a friendly environment to empower researchers and enable data-driven discovery. Even those with some experience will benefit, as the goal is to teach not only how to do analyses, but how to manage the process to make it as automated and reproducible as possible.
 
 <h3>CarpentriesOffline</h3>
 
