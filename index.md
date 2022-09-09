@@ -83,7 +83,7 @@ the pitch.
 
 <a href="https://git-scm.com/">Git</a> is a powerful version control system that is becoming increasingly valuable as a tool for collaboration and Open Science.
 
-<a href="https://www.python.org/about/">Python</a> is a powerful programming language with many applications in data capture, analysis, and visualization.
+<a href="https://www.python.org/about/">Python</a> is a flexible programming language with many applications in data capture, analysis, and visualization.
 
 This workshop is a hands-on introduction to Git and Python for beginners, using material that has been adapted from the <a href="https://software-carpentry.org/lessons/">Software Carpentry</a> lesson materials.
 
