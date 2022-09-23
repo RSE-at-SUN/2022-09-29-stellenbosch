@@ -245,7 +245,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to staff, students, and postdoctoral researchers in Stellenbosch University. Please complete the <a href="https://forms.office.com/r/Lxwsvh7VVR">application form</a> (<i>Please note that places are limited - you will be contacted with confirmation if a place is available.</i>)
+    This <a href="https://rse.sun.ac.za/">RSE@SUN</a> workshop is open to staff, students, and postdoctoral researchers in Stellenbosch University. Please complete the <a href="https://forms.office.com/r/Lxwsvh7VVR">application form</a> (<i>Please note that places are limited - you will be contacted with confirmation if a place is available.</i>)
 </p>
 
 
