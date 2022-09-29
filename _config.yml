@@ -62,10 +62,10 @@ title: "Git + Python CarpentriesOffline workshop"
 incubator_lesson_site: "https://carpentries-incubator.github.io/python-novice-programming-gapminder/"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
-incubator_pre_survey: "put the URL of your pre-workshop survey here"
+incubator_pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug=2022-09-29-stellenbosch"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-incubator_post_survey: "put the URL of your post-workshop survey here"
+incubator_post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug=2022-09-29-stellenbosch"
 #
 #------------------------------------------------------------
 
